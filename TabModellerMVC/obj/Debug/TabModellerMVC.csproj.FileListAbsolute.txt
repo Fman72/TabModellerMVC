@@ -1,0 +1,23 @@
+c:\users\fraser\documents\visual studio 2015\Projects\TabModellerMVC\TabModellerMVC\bin\Debug\TabModellerMVC.exe.config
+C:\Users\ASUS\Desktop\TabModellerMVC\TabModellerMVC\bin\Debug\TabModellerMVC.exe.config
+C:\Users\ASUS\Desktop\TabModellerMVC\TabModellerMVC\bin\Debug\TabModellerMVC.exe
+C:\Users\ASUS\Desktop\TabModellerMVC\TabModellerMVC\bin\Debug\TabModellerMVC.pdb
+C:\Users\ASUS\Desktop\TabModellerMVC\TabModellerMVC\obj\Debug\TabModellerMVC.Properties.Resources.resources
+C:\Users\ASUS\Desktop\TabModellerMVC\TabModellerMVC\obj\Debug\TabModellerMVC.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\TabModellerMVC\TabModellerMVC\obj\Debug\TabModellerMVC.exe
+C:\Users\ASUS\Desktop\TabModellerMVC\TabModellerMVC\obj\Debug\TabModellerMVC.pdb
+C:\Users\ASUS\Desktop\TabModellerMVC\TabModellerMVC\obj\Debug\TabModellerMVC.csprojResolveAssemblyReference.cache
+C:\Users\Fraser\Desktop\TabModellerMVC\TabModellerMVC\bin\Debug\TabModellerMVC.exe.config
+C:\Users\Fraser\Desktop\TabModellerMVC\TabModellerMVC\obj\Debug\TabModellerMVC.exe
+C:\Users\Fraser\Desktop\TabModellerMVC\TabModellerMVC\obj\Debug\TabModellerMVC.pdb
+C:\Users\Fraser\Desktop\TabModellerMVC\TabModellerMVC\bin\Debug\TabModellerMVC.exe
+C:\Users\Fraser\Desktop\TabModellerMVC\TabModellerMVC\bin\Debug\TabModellerMVC.pdb
+C:\Users\Fraser\Desktop\TabModellerMVC\TabModellerMVC\obj\Debug\TabModellerMVC.csprojResolveAssemblyReference.cache
+C:\Users\Fraser\Desktop\TabModellerMVC\TabModellerMVC\obj\Debug\TabModellerMVC.Properties.Resources.resources
+C:\Users\Fraser\Desktop\TabModellerMVC\TabModellerMVC\obj\Debug\TabModellerMVC.csproj.GenerateResource.Cache
+C:\Users\Fraser\Desktop\TabModellerMVC\TabModellerMVC\obj\Debug\TabModellerMVC.GraphicalBarsForm.resources
+C:\Users\Fraser\Desktop\TabModellerMVC\TabModellerMVC\obj\Debug\TabModellerMVC.TextualBarsForm.resources
+C:\Users\ASUS\Desktop\TabModellerMVC\TabModellerMVC\obj\Debug\TabModellerMVC.GraphicalBarsForm.resources
+C:\Users\ASUS\Desktop\TabModellerMVC\TabModellerMVC\obj\Debug\TabModellerMVC.TextualBarsForm.resources
+C:\Users\ASUS\Desktop\TabModellerMVC\TabModellerMVC\obj\Debug\TabModellerMVC.FilteredBarsView.resources
+C:\Users\Fraser\Desktop\TabModellerMVC\TabModellerMVC\obj\Debug\TabModellerMVC.FilteredBarsView.resources
